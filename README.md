@@ -2,8 +2,14 @@
 <h1>👋 Hello, I'm Mohamed Irfan!</h1>
 </div>
 
-
+---
 I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Information and Communication Technology (BICT) degree. I'm passionate about software development, especially web and mobile applications, and I'm continuously learning to expand my skill set.
+
+---
+<div align="center">
+  [![GitHub Followers](https://img.shields.io/github/followers/Mohamed-Irfan-git?style=social)](https://github.com/your-username)
+  [![GitHub Stars](https://img.shields.io/github/stars/Mohamed-Irfan-git?style=social)](https://github.com/your-username?tab=repositories)
+</div>
 
 ---
 

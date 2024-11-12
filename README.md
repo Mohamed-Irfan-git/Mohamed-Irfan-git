@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hello, I'm Mohamed Irfan!</h1>
   <a href="https://github.com/Mohamed-Irfan-git">
-    <img src="https://img.shields.io/github/followers/Mohamed-Irfan-git?label=Follow&style=social&logoWidth=20&labelWidth=100&color=blue" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Mohamed-Irfan-git?label=Follow&style=social&color=blue&labelColor=green&logoColor=white&logoWidth=20&labelWidth=100" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Mohamed-Irfan-git?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mohamed-Irfan-git?style=social&logoWidth=20&labelWidth=100&color=yellow" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/Mohamed-Irfan-git?style=social&color=yellow&labelColor=purple&logoColor=black&logoWidth=20&labelWidth=100&color=yellow" alt="GitHub Stars" />
   </a>
 </div>
 ---

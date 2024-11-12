@@ -6,8 +6,9 @@
   <a href="https://github.com/Mohamed-Irfan-git?tab=repositories">
     <img src="https://img.shields.io/github/stars/Mohamed-Irfan-git?style=flat&color=yellow&labelColor=purple&logo=github&logoColor=black" alt="GitHub Stars" />
   </a>
+  <hr>
 </div>
----
+
 I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Information and Communication Technology (BICT) degree. I'm passionate about software development, especially web and mobile applications, and I'm continuously learning to expand my skill set.
 
 

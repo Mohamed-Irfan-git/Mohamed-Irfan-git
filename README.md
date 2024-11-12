@@ -7,9 +7,10 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ---
 <div align = align = "center">
- [![GitHub Followers](https://img.shields.io/github/followers/Mohamed-Irfan-git?style=social)](https://github.com/Mohamed-Irfan-git)
- [![GitHub Stars](https://img.shields.io/github/stars/Mohamed-Irfan-git?style=social)](https://github.com/Mohamed-Irfan-git?tab=repositories)
+ [![GitHub Followers](https://img.shields.io/github/followers/Mohamed-Irfan-git?label=Follow&style=social)](https://github.com/Mohamed-Irfan-git)
+[![GitHub Stars](https://img.shields.io/github/stars/Mohamed-Irfan-git?style=social)](https://github.com/Mohamed-Irfan-git?tab=repositories)
 </div>
+
 ---
 
 ### 📘 Currently Learning

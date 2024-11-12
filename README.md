@@ -28,7 +28,7 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ### 🏆 My HackerRank Statistics
 
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://https://www.hackerrank.com/profile/irfanmt29)
 
 ---
 
@@ -37,8 +37,8 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 - Learning new algorithms and data structures on HackerRank.
 
 ### 📫 Connect With Me
-- **Email:** youremail@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** irfanmt29@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohamed-irfan-293882325)
 
 ---
 

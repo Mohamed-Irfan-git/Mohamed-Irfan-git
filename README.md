@@ -1,5 +1,6 @@
+<div align = "center">
 # 👋 Hello, I'm Mohamed Irfan!
-
+</div>
 I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Information and Communication Technology (BICT) degree. I'm passionate about software development, especially web and mobile applications, and I'm continuously learning to expand my skill set.
 
 ---
@@ -35,12 +36,6 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Irfan-git&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Irfan-git&layout=compact&theme=radical)
-
----
-
-### 🏆 My HackerRank Statistics
-
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://https://www.hackerrank.com/profile/irfanmt29)
 
 ---
 

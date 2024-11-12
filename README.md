@@ -5,7 +5,7 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 ---
 
 ### 📘 Currently Learning
-- **Java** for backend and mobile applications
+- **Java** for Creatting Dekstop Application
 
 ### 🎓 Education
 - **University of Ruhuna** — BICT Undergraduate
@@ -16,6 +16,18 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 - **Languages:** Java, Python, PHP, HTML, CSS, SQL (MySQL)
 - **Frameworks & Libraries:** (add any if you’re learning one or two, like Bootstrap, etc.)
 - **Tools:** Visual Studio Code, IntelliJ IDEA, Git
+
+- ### 🛠 Skills
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 

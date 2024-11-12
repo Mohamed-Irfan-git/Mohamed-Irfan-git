@@ -22,7 +22,7 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ### 💻 Skills
 - **Languages:** Java, Python, PHP, HTML, CSS, SQL (MySQL)
-- **Frameworks & Libraries:** (add any if you’re learning one or two, like Bootstrap, etc.)
+- **Frameworks & Libraries:** Spring Boot
 - **Tools:** Visual Studio Code, IntelliJ IDEA, Git
 
 - ### 🛠 Skills

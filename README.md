@@ -49,8 +49,8 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Irfan-git&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Irfan-git&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Irfan-git&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Irfan-git&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
 ---

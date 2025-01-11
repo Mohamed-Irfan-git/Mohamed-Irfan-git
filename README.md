@@ -15,6 +15,8 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
 
 ### 📘 Currently Learning
 - **Java** for Creating Desktop Applications
+- **Flutter** for Creating Mobile Applications
+- **Spring Boot** For Creating API
 
 ---
 

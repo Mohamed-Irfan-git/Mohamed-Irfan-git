@@ -45,9 +45,6 @@ I'm an undergraduate at the University of Ruhuna, pursuing a Bachelor of Informa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40"/>&nbsp;
 </div>
 
-
-
-
 ---
 
 ### 📈 GitHub Stats

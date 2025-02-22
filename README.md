@@ -25,7 +25,8 @@ I am an enthusiastic **BICT** undergraduate at **University of Ruhuna** with a s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" title="Rust" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
+ <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
 </div>
 

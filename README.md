@@ -24,10 +24,11 @@ I am an enthusiastic **BICT** undergraduate at **University of Ruhuna** with a s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  
-  <!-- Rust Icon with Red Border -->
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Rust_Logo_2021.svg" title="Rust" width="40" height="40" style="border: 2px solid #FF0000; border-radius: 10px;"/>&nbsp;
+
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;

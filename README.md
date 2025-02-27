@@ -32,6 +32,8 @@ I am an enthusiastic **BICT** undergraduate at **University of Ruhuna** with a s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" style="border: 2px solid #61DBFB; border-radius: 10px;"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/JavaFX_Logo.png" title="JavaFX" width="40" height="40" style="border: 2px solid #FF8C00; border-radius: 10px;"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40" style="border: 2px solid #FF6C37; border-radius: 10px;"/>&nbsp;
 </div>
 
 ---

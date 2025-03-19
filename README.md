@@ -18,29 +18,33 @@ I am an enthusiastic **BICT** undergraduate at **University of Ruhuna** with a s
 
 ### 🔧 My Skillset
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" width="40" height="40" style="border: 2px solid #FF0000; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" style="border: 2px solid #61DBFB; border-radius: 10px;"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40" style="border: 2px solid #FF6C37; border-radius: 10px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40" />&nbsp;
 </div>
 
 ---
 
-### 🧠 Currently Learning
+### 🧐 Currently Learning
 - Mastering **Java** for powerful **desktop applications**
 - Diving deeper into **Flutter** for **mobile app development**
 - Exploring **Spring Boot** for crafting scalable **APIs**
+- Understanding **Microservices** architecture with **Kafka** and **Kubernetes**
 
 ---
 
@@ -63,7 +67,7 @@ I am an enthusiastic **BICT** undergraduate at **University of Ruhuna** with a s
 
 ---
 
-### 📬 Let’s Connect
+### 📨 Let’s Connect
 - **Email**: irfanmt29@gmail.com
 - **LinkedIn**: [Mohamed Irfan's LinkedIn](https://www.linkedin.com/in/mohamed-irfan-293882325)
 - **GitHub**: [Mohamed-Irfan-git](https://github.com/Mohamed-Irfan-git)
